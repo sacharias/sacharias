@@ -1,4 +1,4 @@
-### Welcome and Fist bump! 🤜🤛 
+### Welcome and fist bump! 🤜🤛 
 
 <!--
 **sacharias/sacharias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
